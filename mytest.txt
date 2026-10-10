@@ -1,3 +1,7 @@
+Hi students 
+Enought for today i am going end this session in next 10 minutes
+
+
 Demo code 
 <?php
         echo "Bbye world" ;
