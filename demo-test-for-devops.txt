@@ -1,0 +1,3 @@
+Hello dosto 
+I think this file will push from my laptop --->  github
+then github --> jenkins ===>  pull at  master.tg.com
